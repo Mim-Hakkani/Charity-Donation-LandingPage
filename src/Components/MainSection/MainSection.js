@@ -65,7 +65,7 @@ const MainSection = () => {
             <h1>Number OF Charity :<br/> {donate.length}</h1><hr/>
             <h1>Total Donate :<br/> $ {total}</h1><hr/>
             <h1>Organization Group: {names  }</h1><hr/>
-            <button className="total">See More</button>
+            <button className="total">See More details</button>
           </div>
 
        </div>
