@@ -29,13 +29,15 @@ const MainSection = () => {
 
   let total =0;
   let names='';
-  for(const totalp of donate){
-    total = total+parseInt(totalp.budget);
-    names = names+totalp.name+' ';
+
+  //show the onclick event
+  for(const all_amount of donate){
+    total = total+parseInt(all_amount.budget);
+    names = names+all_amount.name+' ';
   }
 
     return (
-        //<!-- Main Section-->
+        // <!-- Main Section-->
 
 <div className="container-fluid my-5 py-5">
     <div className="row">
