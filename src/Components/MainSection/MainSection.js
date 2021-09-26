@@ -8,6 +8,10 @@ const MainSection = () => {
 
     const[helps,setHelps]=useState([]);
 
+    const[donate,setDonate]=useState([]);
+
+  
+
     //load fake data from json file  
     useEffect(()=>{
         fetch('donate.json')
@@ -16,8 +20,19 @@ const MainSection = () => {
 
     },[]);
 
+   //event Handler 
 
+   const handleDonate =(help)=>{
+      const Number_Of_Donar = [...donate,help];
+      setDonate(Number_Of_Donar)
+   }
 
+  let total =0;
+  let names='';
+  for(const totalp of donate){
+    total = total+parseInt(totalp.budget);
+    names = names+totalp.name;
+  }
 
     return (
         //<!-- Main Section-->
@@ -26,6 +41,7 @@ const MainSection = () => {
     <div className="row">
         <div className="col-md-12">
             <h1 className="d-org my-5">My Donar Organization</h1>
+           
         </div>
     </div>
     <div className="row">
@@ -34,7 +50,7 @@ const MainSection = () => {
                 
                         {
                         
-                        helps.map(help=><Details help={help} key={help.id}></Details>)
+                        helps.map(help=><Details help={help} key={help.id} handleDonate={handleDonate}></Details>)
 
                         }
                         
@@ -46,8 +62,9 @@ const MainSection = () => {
         <div className="col-md-4">
 
           <div className="total-budget">
-            <h1>Number OF Charity : 5</h1>
-            <h1>Total Donate : $10000</h1>
+            <h1>Number OF Charity : {donate.length}</h1>
+            <h1>Total Donate : $ {total}</h1>
+            <h1>Organization Group: {names}</h1>
             <button className="total">See More</button>
           </div>
 

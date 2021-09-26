@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const Details = (props) => {
-   
+ 
     //use object destrucring 
 
     const{title,desc,name,budget,area,img}=props.help
@@ -28,7 +28,12 @@ const Details = (props) => {
                                 <li><a href="http://www.youtube.com"><i href="http://www.youtube.com" className="fab fa-youtube"></i></a></li>
                             </ul>
                             
-                           <button className="card-link"> <i className="fas fa-dollar-sign"></i> Donate</button>
+                           <button 
+                           
+                           onClick={()=>props.handleDonate(props.help)}
+                           className="card-link"> 
+                           
+                           <i className="fas fa-dollar-sign"></i> Donate</button>
                        </div>
                        </div>
                 </div>

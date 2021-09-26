@@ -31,7 +31,7 @@ margin-bottom: 25px;
 
 .total-budget {
     background-color: #ffecf0;
-    height: auto;
+    height: auto!important;
     padding: 100px;
     text-shadow: 4px 3px 7px #c39fbd;
 	height: 500px;

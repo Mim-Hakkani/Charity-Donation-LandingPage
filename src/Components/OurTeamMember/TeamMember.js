@@ -5,6 +5,8 @@ import team3 from '../images/team3.png';
 import './TeamMember.css'
 
 const TeamMember = () => {
+
+
     return (
         
 //<!-- our Team member  -->
@@ -80,5 +82,7 @@ const TeamMember = () => {
  </div>
     );
 };
+
+
 
 export default TeamMember;
