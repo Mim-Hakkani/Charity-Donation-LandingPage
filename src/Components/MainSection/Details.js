@@ -9,7 +9,7 @@ const Details = (props) => {
     return (
         <div className="col-md-4">
                     <div className="card my-3">
-                  <img src={img} className="card-img-top img-fluid" alt="..." style={{height:'300px',width:'100%'}} />
+                  <img src={img} className="card-img-top img-fluid" alt="..." style={{height:'300px',width:'100%',padding:'4px',}} />
                         <div className="card-body">
                           <h5 className="card-title">{title}</h5>
                           <p className="card-text">{desc}</p>

@@ -7,6 +7,8 @@ const MainHeader = () => {
         //<!-- Main-header_section  -->
 
 <div className="container-fluid mt-5">
+
+    
     
        <div className="background-charity">
            
@@ -20,6 +22,11 @@ const MainHeader = () => {
             
           </div>
 
+      </div>
+
+      <div className="header-title" style={{backgroundColor:'#000',padding:'10px',color:'#fff',marginTop:'1px'}}>
+          <h2>Welcome To Hakkani's Charity</h2>
+          <p>Trusted,Belived,Lovely</p>
       </div>
 </div>
 

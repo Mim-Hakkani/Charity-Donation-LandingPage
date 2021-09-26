@@ -19,7 +19,7 @@
         "id":"2"
     },
     {
-        "title": "Hungry People Help",
+        "title": "Hungry-people",
         "area": "Rajshahi-East",
         "desc":"You can help more financial aid even if you have already filed the Free Application for Federal Student Aid.",
         "name":"Help-Hungry-People",
@@ -31,7 +31,7 @@
         "title": "Widow woman",
         "area": "Rajshahi-East",
         "desc":"Widow women are more helpless even if you have already filed the Free Application for Federal Student Aid.",
-        "name":"Widow-Women-person",
+        "name":"Widow-Womens",
         "img":"https://www.islamic-relief.org/wp-content/uploads/2015/09/Launch-main-image-605x340.jpg",
         "budget":"2000",
         "id":"5" 
@@ -55,7 +55,7 @@
         "id":"7"
     },
     {
-        "title": "Help Landless People",
+        "title": "Landless People",
         "area": "Rajshahi-East",
         "desc":"You can help more financial aid even if you have already filed the Free Application for Federal Student Aid.",
         "name":"Landless-people",
