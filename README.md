@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# WellCome To The Hakkani's Charity Firm
-
-=======
 # WellCome To The Hakkani's Charity foundation
   
   LiveSite Link : 
@@ -24,6 +20,5 @@
 # step4 : Donate some Doller to help this organization
 # step5 : Have a Smaile ,if You read all text You are Admitted our charity
 # step6 : Have A Relax ! if emergengy we call you 
->>>>>>> 1f84728620faea9a742a49925f5893e8f018b55b
 
 
