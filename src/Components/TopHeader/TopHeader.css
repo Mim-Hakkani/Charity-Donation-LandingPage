@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Poppins:ital,wght@0,200;0,300;0,400;1,500&family=Raleway:wght@300;500;600&display=swap');
+
+body{
+	/* font-family: 'Carattere', cursive;
+	font-family: 'Poppins', sans-serif; */
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+
+/**************** 2. Top Header Area ********/
+.headerText{
+	font-family: 'Carattere', cursive;
+	text-align: center;
+
+}
+.headerText h2 {
+    color: #ff35ae;
+    font-size: 46px;
+    margin-top: 25px;
+    font-weight: bold;
+}
+.logo{
+	text-align: center;
+}
+.logo img {
+    height: 113px;
+    width: 286px;
+    border-radius: 50%;
+}
+.header-btn{
+	text-align: center;
+}
+.header-btn button {
+    background-color: #FF35AE;
+    color: #fff;
+    padding: 15px 25px;
+    margin-top: 26px;
+}

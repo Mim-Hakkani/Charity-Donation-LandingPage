@@ -1,0 +1,43 @@
+/* voluntree section */
+
+.team-member{
+    position: relative;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    }
+    .team-member img {
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+        padding: 0;
+        position: absolute;
+        /* margin-left: -15px; */
+        left: 85px;
+        margin-top: -104px;
+    }
+    .team-member h2 {
+        line-height: 49px;
+        margin-top: 57px;
+    }
+    .team-member p{
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+    .another {
+        background-color: #f2f2f2;
+        padding: 25px;
+        width: 77%;
+        text-align: center;
+        height: 312px;
+        
+    }
+    .social-icon2{
+    
+    }
+    .social-icon2 li{
+        display: inline-block;
+        margin-right: 25px;
+    }
+    .social-icon2{
+        
+    }

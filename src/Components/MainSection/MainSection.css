@@ -1,0 +1,51 @@
+/************ Donar Organizations ***************/
+.d-org {
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: 1px 2px 3px #ff35ae;
+    letter-spacing: 4px;
+}
+.social-icon{
+text-align: center;
+margin-bottom: 25px;
+}
+.card-body ul>li{
+	display: inline;
+	margin-right: 25px;
+}
+
+.card-body button {
+    background-color: #FF35AE;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 17px;
+    text-align: center;
+    width: 88%;
+    margin-left: 20px;
+    border: 0px;
+}
+.card-title{
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+}
+
+.total-budget {
+    background-color: #ffecf0;
+    height: auto;
+    padding: 100px;
+    text-shadow: 4px 3px 7px #c39fbd;
+	height: 500px;
+}
+.total-budget button {
+    background-color: #af106f;
+    color: #fff;
+    padding: 15px 25px;
+    text-align: center;
+    width: 59%;
+    border-radius: 37px;
+    margin-left: 43px;
+    border: 0px;
+}
+.total{
+    margin-top: 15px;
+}

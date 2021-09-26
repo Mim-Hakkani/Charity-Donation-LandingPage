@@ -1,0 +1,42 @@
+/********************Background charity ************************/
+.background-charity{
+	height: 750px;
+	background-position:center bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	position: relative;
+    background-image: url(../images/carity-3.jpg);
+    
+}
+.background-style{
+	background:linear-gradient(0,0,0,0.5)
+}
+
+.header-inner-text{
+    position: absolute;
+    top: 200px;
+    right: 10%;
+	
+}
+
+.header-inner-text h1 {
+    font-size: 56px;
+    color: #fff;
+    font-family: 'Raleway';
+    line-height: 74px;
+}
+
+.header-inner-text button {
+    background-color: #FF35AE;
+    color: #fff;
+    padding: 15px 41px;
+    margin-top: 0px;
+    border: 0px;
+    border-radius: 27px;
+}
+.amar{
+              background: linear-gradient(rgb(37 35 37 / 81%),rgb(154 16 16 / 50%));
+               width: 100%;
+               height: 100%;
+}

@@ -1,0 +1,17 @@
+
+/*
+ footer section area 
+*/
+footer {
+    background: #f9f7f7;
+    margin-top: 5px;
+    padding: 14px;
+}
+footer h2 {
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+    line-height: 25px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
