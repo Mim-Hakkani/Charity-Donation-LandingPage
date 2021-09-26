@@ -22,7 +22,7 @@
         "title": "Hungry People Help",
         "area": "Rajshahi-East",
         "desc":"You can help more financial aid even if you have already filed the Free Application for Federal Student Aid.",
-        "name":"Hungry-People",
+        "name":"Help-Hungry-People",
         "img":"https://www.foodforthepoor.org/our-work/problems-we-solve/images/extreme-poverty-070120.jpg",
         "budget":"15000",
         "id":"4"
@@ -31,7 +31,7 @@
         "title": "Widow woman",
         "area": "Rajshahi-East",
         "desc":"Widow women are more helpless even if you have already filed the Free Application for Federal Student Aid.",
-        "name":"Widow-light",
+        "name":"Widow-Women-person",
         "img":"https://www.islamic-relief.org/wp-content/uploads/2015/09/Launch-main-image-605x340.jpg",
         "budget":"2000",
         "id":"5" 
@@ -40,7 +40,7 @@
         "title": "Blind People Fuondation",
         "area": "Rajshahi-East",
         "desc":"Blind is more helpless aid even if you in the world the Free Application for Federal Student Aid.",
-        "name":"Blind-Person",
+        "name":"Blind-Person-help",
         "img":"https://www.asme.org/getmedia/f33a2547-dc5c-4253-b134-3a92ee3c1b9a/wearables-help-the-blind-walk_hero.jpg.aspx?width=460&height=360&ext=.jpg",
         "budget":"1000",
         "id":"6"
@@ -49,7 +49,7 @@
         "title": "Flood Deservation people",
         "area": "Rajshahi-East",
         "desc":"You can help more financial aid even if you have already filed the Free Application for Federal Student Aid.",
-        "name":"flood-light",
+        "name":"flood-affected-people",
         "img":"https://i.guim.co.uk/img/media/e4b53878b0e2e25de32b4719935ae24825283d05/0_0_2802_1681/master/2802.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=528fbf0d443e8aea04fc6429fecb7e07",
         "budget":"7000",
         "id":"7"
@@ -58,7 +58,7 @@
         "title": "Help Landless People",
         "area": "Rajshahi-East",
         "desc":"You can help more financial aid even if you have already filed the Free Application for Federal Student Aid.",
-        "name":"Landless-rj",
+        "name":"Landless-people",
         "img":"https://www.borgenmagazine.com/wp-content/uploads/2020/03/Farmer-flickr-1024x681.png",
         "budget":"6000",
         "id":"8"

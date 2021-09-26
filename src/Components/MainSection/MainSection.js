@@ -31,7 +31,7 @@ const MainSection = () => {
   let names='';
   for(const totalp of donate){
     total = total+parseInt(totalp.budget);
-    names = names+totalp.name;
+    names = names+' '+totalp.name+' ';
   }
 
     return (
@@ -62,9 +62,9 @@ const MainSection = () => {
         <div className="col-md-4">
 
           <div className="total-budget">
-            <h1>Number OF Charity : {donate.length}</h1>
-            <h1>Total Donate : $ {total}</h1>
-            <h1>Organization Group: {names}</h1>
+            <h1>Number OF Charity :<br/> {donate.length}</h1><hr/>
+            <h1>Total Donate :<br/> $ {total}</h1><hr/>
+            <h1>Organization Group: {names  }</h1><hr/>
             <button className="total">See More</button>
           </div>
 
