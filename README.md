@@ -1,8 +1,8 @@
-# Website name: WellCome To The Hakkani's Charity foundation
+## Website name: WellCome To The Hakkani's Charity foundation
   
- # LiveSite Link : https://eloquent-shaw-acfc28.netlify.app/
+ ### LiveSite Link : https://eloquent-shaw-acfc28.netlify.app/
 
-# Which Services provide in the foundation 
+### Which Services provide in the foundation 
   1.Education For Kids 
   2.Help Economic Opportunity
   3.Helpless Peoples
@@ -12,13 +12,13 @@
   7.Widow Women
   8.Blind People
   
-# How To Join In My Charity
+### How To Join In My Charity
  
-# step1 : First Mentaly setup your mind that are you sure to help people and Trust ours ??
-# step2 : Working Hard Mentality
-# step3 : Form Fill up our charity office and write your details 
-# step4 : Donate some Doller to help this organization
-# step5 : Have a Smaile ,if You read all text You are Admitted our charity
-# step6 : Have A Relax ! if emergengy we call you 
+* step1 : First Mentaly setup your mind that are you sure to help people and Trust ours ??
+* step2 : Working Hard Mentality
+* step3 : Form Fill up our charity office and write your details 
+* step4 : Donate some Doller to help this organization
+* step5 : Have a Smaile ,if You read all text You are Admitted our charity
+* step6 : Have A Relax ! if emergengy we call you 
 
 
